@@ -1,0 +1,9 @@
+# Changelog
+
+## [1.0.1](https://github.com/tharinduk001/demo-rp/compare/v1.0.0...v1.0.1) (2026-01-17)
+
+
+### Bug Fixes
+
+* remove vulnarabilities in textfile ([12a0e7a](https://github.com/tharinduk001/demo-rp/commit/12a0e7a1044409cf76dcb4f99eb940cfb4b164e1))
+* update GitHub token reference in release workflow ([79f778d](https://github.com/tharinduk001/demo-rp/commit/79f778d25118586776369353cf2fbe21885f0f0c))

@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/tharinduk001/demo-rp/compare/v1.0.1...v1.0.2) (2026-01-17)
+
+
+### Bug Fixes
+
+* remove obsolete test file ([42aa941](https://github.com/tharinduk001/demo-rp/commit/42aa941bed0868f37769a44b0af3d69bcf592ca3))
+
 ## [1.0.1](https://github.com/tharinduk001/demo-rp/compare/v1.0.0...v1.0.1) (2026-01-17)
 
 

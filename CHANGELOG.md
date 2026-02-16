@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.3](https://github.com/tharinduk001/demo-rp/compare/v1.0.2...v1.0.3) (2026-02-16)
+
+
+### Bug Fixes
+
+* remove unnecessary blank lines in Dockerfile ([5ac24e9](https://github.com/tharinduk001/demo-rp/commit/5ac24e9e1d1bda4738d2388cb885f8afcec25467))
+
 ## [1.0.2](https://github.com/tharinduk001/demo-rp/compare/v1.0.1...v1.0.2) (2026-01-17)
 
 

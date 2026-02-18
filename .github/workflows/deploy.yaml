@@ -28,8 +28,8 @@ jobs:
       - name: Build and Push Image
         run: |
           # Build with the GitHub Release tag and 'latest' tag
-          docker build -t tharinduk001registry.azurecr.io/subnet-calc:${{ github.event.release.tag_name }} .
-          docker build -t tharinduk001registry.azurecr.io/subnet-calc:latest .
+          docker build -t certdirectoryacr.azurecr.io/lms-static:${{ github.event.release.tag_name }} .
+          docker build -t certdirectoryacr.azurecr.io/lms-static:latest .
 
-          docker push tharinduk001registry.azurecr.io/subnet-calc:${{ github.event.release.tag_name }}
-          docker push tharinduk001registry.azurecr.io/subnet-calc:latest
+          docker push certdirectoryacr.azurecr.io/lms-static:${{ github.event.release.tag_name }}
+          docker push certdirectoryacr.azurecr.io/lms-static:latest

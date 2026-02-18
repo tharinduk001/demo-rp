@@ -1,0 +1,35 @@
+name: Build and Push to ACR
+
+on:
+  release:
+    types:
+      - published
+  workflow_dispatch:
+
+concurrency:
+  group: deploy
+  cancel-in-progress: false
+
+jobs:
+  build-and-push:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      - name: Azure Container Registry Login
+        uses: Azure/docker-login@v1
+        with:
+          # Using your specific login server
+          login-server: ${{ secrets.ACR_LOGIN_SERVER }}
+          username: ${{ secrets.ACR_USERNAME }}
+          password: ${{ secrets.ACR_PASSWORD }}
+
+      - name: Build and Push Image
+        run: |
+          # Build with the GitHub Release tag and 'latest' tag
+          docker build -t tharinduk001registry.azurecr.io/subnet-calc:${{ github.event.release.tag_name }} .
+          docker build -t tharinduk001registry.azurecr.io/subnet-calc:latest .
+
+          docker push tharinduk001registry.azurecr.io/subnet-calc:${{ github.event.release.tag_name }}
+          docker push tharinduk001registry.azurecr.io/subnet-calc:latest

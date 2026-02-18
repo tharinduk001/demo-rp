@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.4](https://github.com/tharinduk001/demo-rp/compare/v1.0.3...v1.0.4) (2026-02-18)
+
+
+### Bug Fixes
+
+* update Docker image names in deploy workflow to use correct registry ([cb01961](https://github.com/tharinduk001/demo-rp/commit/cb01961b0d2dca39a767a2599f5eeea4caad34b6))
+
 ## [1.0.3](https://github.com/tharinduk001/demo-rp/compare/v1.0.2...v1.0.3) (2026-02-16)
 
 

@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.6](https://github.com/tharinduk001/demo-rp/compare/v1.0.5...v1.0.6) (2026-02-18)
+
+
+### Bug Fixes
+
+* update hero section heading to 'THARINDU KALHARA' ([062c52e](https://github.com/tharinduk001/demo-rp/commit/062c52e21b12e834db71938a735d5c88eb9cbbb5))
+
 ## [1.0.5](https://github.com/tharinduk001/demo-rp/compare/v1.0.4...v1.0.5) (2026-02-18)
 
 

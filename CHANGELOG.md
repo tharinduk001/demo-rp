@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.5](https://github.com/tharinduk001/demo-rp/compare/v1.0.4...v1.0.5) (2026-02-18)
+
+
+### Bug Fixes
+
+* update logo text from 'EduStream' to 'Tharindu' in navigation ([30b27c6](https://github.com/tharinduk001/demo-rp/commit/30b27c64cddf4faa9aeaa6752386ccdb2a709ab2))
+
 ## [1.0.4](https://github.com/tharinduk001/demo-rp/compare/v1.0.3...v1.0.4) (2026-02-18)
 
 

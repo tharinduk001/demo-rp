@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.7](https://github.com/tharinduk001/demo-rp/compare/v1.0.6...v1.0.7) (2026-02-24)
+
+
+### Bug Fixes
+
+* update Docker image registry to use tharinduk001acr.azurecr.io ([f5fd7cd](https://github.com/tharinduk001/demo-rp/commit/f5fd7cd15e08be3d07e6d12a5b23f668b4edae1f))
+
 ## [1.0.6](https://github.com/tharinduk001/demo-rp/compare/v1.0.5...v1.0.6) (2026-02-18)
 
 

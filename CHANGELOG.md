@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.14](https://github.com/tharinduk001/demo-rp/compare/v1.0.13...v1.0.14) (2026-02-27)
+
+
+### Bug Fixes
+
+* update hero section title to reflect version change ([b772534](https://github.com/tharinduk001/demo-rp/commit/b77253432a372f6e2c2131d7d11173288b482561))
+
 ## [1.0.13](https://github.com/tharinduk001/demo-rp/compare/v1.0.12...v1.0.13) (2026-02-27)
 
 

@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.18](https://github.com/tharinduk001/demo-rp/compare/v1.0.17...v1.0.18) (2026-02-27)
+
+
+### Bug Fixes
+
+* update hero section title to reflect ACR automation ([2f722a0](https://github.com/tharinduk001/demo-rp/commit/2f722a081a9302c0f2813be402fe7f0d85b23b94))
+
 ## [1.0.17](https://github.com/tharinduk001/demo-rp/compare/v1.0.16...v1.0.17) (2026-02-27)
 
 

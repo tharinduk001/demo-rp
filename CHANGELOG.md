@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.11](https://github.com/tharinduk001/demo-rp/compare/v1.0.10...v1.0.11) (2026-02-27)
+
+
+### Bug Fixes
+
+* update hero section title to 'CANARY DEPLOYMENT' in index.html ([fdd37ec](https://github.com/tharinduk001/demo-rp/commit/fdd37ec4e44e20c42f4af4001488c4034924b7d0))
+
 ## [1.0.10](https://github.com/tharinduk001/demo-rp/compare/v1.0.9...v1.0.10) (2026-02-27)
 
 

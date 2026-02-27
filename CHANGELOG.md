@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.10](https://github.com/tharinduk001/demo-rp/compare/v1.0.9...v1.0.10) (2026-02-27)
+
+
+### Bug Fixes
+
+* update course description punctuation in index.html ([d37dd8d](https://github.com/tharinduk001/demo-rp/commit/d37dd8d3ebf6b99f128bef4e9c2dae35f07bc707))
+
 ## [1.0.9](https://github.com/tharinduk001/demo-rp/compare/v1.0.8...v1.0.9) (2026-02-27)
 
 

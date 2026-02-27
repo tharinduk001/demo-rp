@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.13](https://github.com/tharinduk001/demo-rp/compare/v1.0.12...v1.0.13) (2026-02-27)
+
+
+### Bug Fixes
+
+* correct duplicate 'v1' in hero section title in index.html ([6dad7fb](https://github.com/tharinduk001/demo-rp/commit/6dad7fbdf9d008686c9e6b136474d8766bd31f74))
+
 ## [1.0.12](https://github.com/tharinduk001/demo-rp/compare/v1.0.11...v1.0.12) (2026-02-27)
 
 

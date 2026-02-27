@@ -1,5 +1,16 @@
 # Changelog
 
+## [1.0.19](https://github.com/tharinduk001/demo-rp/compare/v1.0.18...v1.0.19) (2026-02-27)
+
+
+### Bug Fixes
+
+* correct casing in hero section subtitle for ACR automation ([f608300](https://github.com/tharinduk001/demo-rp/commit/f608300e16b976bc3b354a605ab040c238d6e9de))
+* remove redundant hero section titles for clarity ([43694d4](https://github.com/tharinduk001/demo-rp/commit/43694d48b1c65925cb8dc77f59cd29529b6ecf53))
+* update hero section title for clarity and specificity ([41fc70c](https://github.com/tharinduk001/demo-rp/commit/41fc70c46dcc0ac6c5524852ab99cf8c6dc38c1e))
+* update hero section title to include CertDirectory Kubernetes Workshop ([445968f](https://github.com/tharinduk001/demo-rp/commit/445968f0a143ec5ab29080aa55ea0e2e7e17b7f9))
+* update hero section titles and add new subtitle for ACR automation ([da0dbec](https://github.com/tharinduk001/demo-rp/commit/da0dbece8daa8bca7bd34bee33c67d55eb2e88e8))
+
 ## [1.0.18](https://github.com/tharinduk001/demo-rp/compare/v1.0.17...v1.0.18) (2026-02-27)
 
 

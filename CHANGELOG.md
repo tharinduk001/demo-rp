@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.9](https://github.com/tharinduk001/demo-rp/compare/v1.0.8...v1.0.9) (2026-02-27)
+
+
+### Bug Fixes
+
+* update Docker image registry to k8sworkshopcertd.azurecr.io ([385bff8](https://github.com/tharinduk001/demo-rp/commit/385bff8508b388bf19f8d411b011dbbefc0c5597))
+
 ## [1.0.8](https://github.com/tharinduk001/demo-rp/compare/v1.0.7...v1.0.8) (2026-02-27)
 
 

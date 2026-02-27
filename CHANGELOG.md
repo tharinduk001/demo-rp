@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.20](https://github.com/tharinduk001/demo-rp/compare/v1.0.19...v1.0.20) (2026-02-27)
+
+
+### Bug Fixes
+
+* update hero section title for improved user engagement ([d4a6bef](https://github.com/tharinduk001/demo-rp/commit/d4a6befef52d697f75e64f298e893da9e870630e))
+
 ## [1.0.19](https://github.com/tharinduk001/demo-rp/compare/v1.0.18...v1.0.19) (2026-02-27)
 
 

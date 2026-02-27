@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.16](https://github.com/tharinduk001/demo-rp/compare/v1.0.15...v1.0.16) (2026-02-27)
+
+
+### Bug Fixes
+
+* remove author name from hero section title ([8b32d91](https://github.com/tharinduk001/demo-rp/commit/8b32d91055c867ab481b859610416330df8524d9))
+
 ## [1.0.15](https://github.com/tharinduk001/demo-rp/compare/v1.0.14...v1.0.15) (2026-02-27)
 
 

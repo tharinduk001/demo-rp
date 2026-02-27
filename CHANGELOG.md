@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.8](https://github.com/tharinduk001/demo-rp/compare/v1.0.7...v1.0.8) (2026-02-27)
+
+
+### Bug Fixes
+
+* update hero section heading to improve clarity ([6ba9fb9](https://github.com/tharinduk001/demo-rp/commit/6ba9fb9769de88b242668e85d8fbbdc8432fad12))
+
 ## [1.0.7](https://github.com/tharinduk001/demo-rp/compare/v1.0.6...v1.0.7) (2026-02-24)
 
 
